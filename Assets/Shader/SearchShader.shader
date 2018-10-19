@@ -48,7 +48,7 @@
 				{
 					o.Albedo += fixed3(1, 0, 0);
 				}
-				*/
+			*/
 
 			// ボックスの内側
 			float3 dis = IN.worldPos - float3(0, 0, 0);		// 中心座標からの距離
